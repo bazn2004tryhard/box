@@ -1,0 +1,14 @@
+div {
+  width: 100px;
+  height: 100px;
+  color: yellow;
+  background-color: red;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  /* border: groove 10px blue; */
+  border-width: 10px;
+  border-style: solid;
+  border-color: pink;
+}

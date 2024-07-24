@@ -1,14 +1,23 @@
-div {
-  width: 100px;
-  height: 100px;
-  color: yellow;
-  background-color: red;
-  padding-top: 20px;
-  padding-left: 20px;
-  padding-right: 20px;
-  padding-bottom: 20px;
-  /* border: groove 10px blue; */
-  border-width: 10px;
-  border-style: solid;
-  border-color: pink;
+.box1 {
+  width: 70px;
+  height: 40px;
+  padding: 40px 60px 70px 30px;
+  background-color: yellow;
+  border: 5px solid black;
+}
+.box2 {
+  width: 70px;
+  height: 40px;
+  padding: 40px 60px 70px 30px;
+  background-color: rgb(71, 170, 76);
+  border: 10px solid rgb(54, 209, 229);
+  margin-left: 169.5px;
+}
+.box3 {
+  width: 70px;
+  height: 40px;
+  padding: 40px 60px 70px 30px;
+  background-color: rgb(34, 60, 231);
+  border: 10px solid rgb(220, 42, 18);
+  margin-left: 347.5px;
 }
